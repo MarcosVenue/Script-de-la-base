@@ -389,3 +389,6 @@ Group by cast (fecha_pedido as DATE)
 Select cast (fecha_entrega as DATE ) as Fecha, COUNT(carrito)as total
 from carrito
 Group by cast (fecha_entrega as DATE)
+
+
+--08/03/21 ESTO ES UNA PRUEBA (ESPERAMOS FUNCIONE PLS :3)
